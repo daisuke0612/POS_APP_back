@@ -81,7 +81,7 @@ async def add_db(request: Request):
 
 @app.get("/")
 def index():
-    return {"message": "FastAPI top page!!"}
+    return {"message": "FastAPI top page!　!"}
 
 
 # @app.post("/customers")
